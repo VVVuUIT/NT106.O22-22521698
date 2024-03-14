@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\1. Lập trình mạng\bt\windown explorer\windown explorer\bin\Debug\windown explorer.exe.config
+C:\Users\Admin\Documents\1. Lập trình mạng\bt\windown explorer\windown explorer\bin\Debug\windown explorer.exe
+C:\Users\Admin\Documents\1. Lập trình mạng\bt\windown explorer\windown explorer\bin\Debug\windown explorer.pdb
+C:\Users\Admin\Documents\1. Lập trình mạng\bt\windown explorer\windown explorer\obj\Debug\windown explorer.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\bt\windown explorer\windown explorer\obj\Debug\windown explorer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\bt\windown explorer\windown explorer\obj\Debug\windown_explorer.Form1.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\bt\windown explorer\windown explorer\obj\Debug\windown_explorer.Properties.Resources.resources
+C:\Users\Admin\Documents\1. Lập trình mạng\bt\windown explorer\windown explorer\obj\Debug\windown explorer.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\bt\windown explorer\windown explorer\obj\Debug\windown explorer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\1. Lập trình mạng\bt\windown explorer\windown explorer\obj\Debug\windown explorer.exe
+C:\Users\Admin\Documents\1. Lập trình mạng\bt\windown explorer\windown explorer\obj\Debug\windown explorer.pdb
